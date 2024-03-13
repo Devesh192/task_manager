@@ -1,0 +1,1 @@
+steps to install this project on you local repository
